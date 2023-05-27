@@ -4,7 +4,7 @@ Drop your video files on the batch file and they'll be remuxed to 4x3 aspect rat
 ## Required
 Latest version of MKVToolNix must be installed under
 
-```C:\Program Files\MKVToolNix\mkvmerge.exe```
+``C:\Program Files\MKVToolNix\mkvmerge.exe``
 
 ## Limitation
 You can drop a maximum of 70 files at a time otherwise it'll crash
