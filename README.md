@@ -9,5 +9,5 @@ C:\Program Files\MKVToolNix\mkvmerge.exe
 ```
 
 ## Limitation
-- You can drop a maximum of 70 files at a time otherwise it'll crash
+- You can drop a maximum of 77 files at a time otherwise it'll crash
 - Only works for container containing 1 video track with id #0
